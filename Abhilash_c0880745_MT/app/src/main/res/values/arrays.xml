@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="car">car</string-array>
+    <string-array name="cars" />
+    <string-array name="car1">cars</string-array>
+</resources>
